@@ -39,6 +39,4 @@ Desarrollador de Software enfocado en construir soluciones web eficientes, robus
 
 ### 🌐 Contacto y Redes
 
-### 🌐 Contacto y Redes
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-tapia-dev/)

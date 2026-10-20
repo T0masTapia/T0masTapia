@@ -7,6 +7,7 @@ Desarrollador de Software enfocado en construir soluciones web eficientes, robus
 ### 🚀 Stack Tecnológico
 
 **Frontend:**
+
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind)](https://skillicons.dev)
 <!--![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

@@ -12,13 +12,14 @@ Desarrollador de Software enfocado en construir soluciones web eficientes, robus
 #![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 #![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
 
-**Backend & Bases de Datos:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+**Backend & Bases de Datos:**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgre,mysql,supabase&perline=3)](https://skillicons.dev)
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)-->
 
 **Herramientas & Despliegue:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -30,10 +31,10 @@ Desarrollador de Software enfocado en construir soluciones web eficientes, robus
 
 ### 📌 Repositorios y Proyectos Destacados
 
-* 🛍️ **TechShop:** Plataforma de e-commerce moderna construida con Next.js y Supabase[cite: 11].
-* 🏢 **Software Administrativo:** Sistema de gestión modular enfocado en la administración eficiente de datos y procesos[cite: 11].
-* 🗄️ **Backend PostgreSQL:** API REST desarrollada con TypeScript y arquitectura limpia para el manejo de persistencia relacional[cite: 11].
-* 🎮 **Web Gamer:** Proyecto web interactivo enfocado en el sector gaming[cite: 11].
+* 🛍️ **TechShop:** Plataforma de e-commerce moderna construida con Next.js y Supabase.
+* 🏢 **Software Administrativo:** Sistema de gestión modular enfocado en la administración eficiente de datos y procesos.
+* 🗄️ **Backend PostgreSQL:** API REST desarrollada con TypeScript y arquitectura limpia para el manejo de persistencia relacional.
+* 🎮 **Web Gamer:** Proyecto web interactivo enfocado en el sector gaming.
 
 ---
 
